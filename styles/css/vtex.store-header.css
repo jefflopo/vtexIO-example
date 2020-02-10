@@ -3,12 +3,13 @@
   font-size: 14px;
 }
 
-.headerRow--main-header .headerRowBackground {
-  background-color: #F0F0F0;
+.headerRow .headerRowBackground {
+  background-color: #286fa1; /* #F0F0F0 */
+  color: #FFF;
 }
 
 .headerRow--main-header :global(.vtex-menu-2-x-styledLink)  {
-  color: #727273;
+  color: #ffffff; /* #727273 */
   font-size: 14px;
 }
 

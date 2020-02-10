@@ -1,0 +1,3 @@
+.menuContainerNav:nth-child(odd) {
+  margin-left: 250px;
+}

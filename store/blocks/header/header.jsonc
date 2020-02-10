@@ -49,7 +49,7 @@
     "children": [
       "vtex.menu@2.x:menu#websites",
       "header-spacer",
-      "vtex.menu@2.x:menu#institutional"
+      "vtex.menu@2.x:menu#institutional" 
     ],
     "props": {
       "blockClass": "menu-link",
