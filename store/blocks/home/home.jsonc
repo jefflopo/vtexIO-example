@@ -1,7 +1,7 @@
 {
-  "store.home": {
+  "store.home": { 
     "blocks": [
-      
+      "category-menu",
       "carousel#home",
       /* You can make references to blocks defined in other files.
        * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
@@ -9,6 +9,7 @@
       "info-card#bestdeals",
       "shelf#deals",
       "info-card#home",
+      "shelf#home",
       "rich-text#question",
       "rich-text#link",
       "newsletter"
@@ -138,7 +139,7 @@
       "showSavings": true,
       "name": {
         "showBrandName": true,
-        "showSku": true,
+        "showSku": false,
         "showProductReference": true
       }
     }
@@ -165,6 +166,7 @@
       "isFullModeStyle": false,
       "textPosition": "center",
       "imageUrl": "http://cybercitycomix.com/wp-content/uploads/2015/08/Sale-sign.jpg",
+      "height":720,
       "headline": "BEST DEALS",
       "callToActionText": "DISCOVER",
       "callToActionUrl": "/sale/d",

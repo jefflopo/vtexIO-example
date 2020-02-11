@@ -1,15 +1,4 @@
 {
-  "category-menu": {
-    "props": {
-      "showPromotionCategory": true,
-      "showGiftCategory": true,
-      "showAllDepartments": true,
-      "showSubcategories": true,
-      "menuDisposition": "center",
-      "departments": []
-    }
-  },
-  
   "header": {
     "blocks": ["header-layout.desktop", "header-layout.mobile"]
   },
